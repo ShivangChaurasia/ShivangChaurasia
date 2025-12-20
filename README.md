@@ -4,6 +4,8 @@
 
 
 # Hi 👋, I'm Shivang Chaurasia
+![Profile Views](https://komarev.com/ghpvc/?username=ShivangChaurasia&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ### MERN Stack Learner | Java Developer | Building Real-World Projects
 
