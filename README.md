@@ -47,9 +47,9 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivangchaurasia&show_icons=true&theme=tokyonight" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShivangChaurasia&theme=tokyonight&hide_border=true" />
-</p>
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=ShivangChaurasia&theme=tokyonight&hide_border=true)
+
 
 
 <p align="center">
