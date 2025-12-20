@@ -5,33 +5,28 @@
 
 # Hi 👋, I'm Shivang Chaurasia
 
-
-
 ### MERN Stack Learner | Java Developer | Building Real-World Projects
 
-- 🔭 I'm currently working on **AspireLens – a MERN-based career guidance and assessment platform
+- 🔭 I'm currently working on AspireLens – a MERN-based career guidance and assessment platform
 with user authentication, email verification, and backend APIs.
-**
 
-- 🌱 I'm currently learning **- 🌱 Learning MERN Stack (MongoDB, Express, React, Node.js)
-- 🧠 Improving problem-solving with Java
-- 🔐 Working on authentication, JWT, and protected routes**
+- 🌱 I'm currently learning: MERN Stack (MongoDB, Express, React, Node.js),🧠 Improving problem-solving with Java, 🔐 Working on authentication, JWT, and protected routes**
 
-- 👯 I'm looking to collaborate on **Open source projects related to web development, backend systems,
-and beginner-friendly MERN applications.**
+- 👯 I'm looking to collaborate on Open source projects related to web development, backend systems,
+and beginner-friendly MERN applications.
 
-- 📫 How to reach me **📧 Email: shiva17ng@gmail.com**
+- 📫 How to reach me 📧 Email: shiva17ng@gmail.com
 
-- ⚡ Fun fact **I believe consistency beats talent, and I enjoy debugging
-as much as writing new code.**
+- ⚡ Fun fact I believe consistency beats talent, and I enjoy debugging
+as much as writing new code.
 
 <img align="right" alt="coding" width="300"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
-- 👨‍💻 All of my projects are available at **[https://github.com/ShivangChaurasia](https://github.com/ShivangChaurasia)**
+- 👨‍💻 All of my projects are available at [https://github.com/ShivangChaurasia](https://github.com/ShivangChaurasia)
 
-- 📄 Know about my experiences **[https://drive.google.com/drive/u/0/folders/1Y47A9YMIyuEaKf20k_IMyEnrOluxXjOs](https://drive.google.com/drive/u/0/folders/1Y47A9YMIyuEaKf20k_IMyEnrOluxXjOs)**
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1Y47A9YMIyuEaKf20k_IMyEnrOluxXjOs](https://drive.google.com/drive/u/0/folders/1Y47A9YMIyuEaKf20k_IMyEnrOluxXjOs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
