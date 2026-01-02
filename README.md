@@ -14,13 +14,11 @@ with user authentication, email verification, and backend APIs.
 
 - 🌱 I'm currently learning: MERN Stack (MongoDB, Express, React, Node.js),🧠 Improving problem-solving with Java, 🔐 Working on authentication, JWT, and protected routes**
 
-- 👯 I'm looking to collaborate on Open source projects related to web development, backend systems,
-and beginner-friendly MERN applications.
+- 👯 I'm looking to collaborate on Open source projects related to web development, backend systems, and beginner-friendly MERN applications.
 
 - 📫 How to reach me 📧 Email: shiva17ng@gmail.com
 
-- ⚡ Fun fact I believe consistency beats talent, and I enjoy debugging
-as much as writing new code.
+- ⚡ Fun fact I believe consistency beats talent, and I enjoy debugging as much as writing new code.
 
 <img align="right" alt="coding" width="300"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
