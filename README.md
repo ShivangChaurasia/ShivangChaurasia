@@ -12,7 +12,7 @@
 - 🔭 I'm currently working on AspireLens – a MERN-based career guidance and assessment platform
 with user authentication, email verification, and backend APIs.
 
-- 🌱 I'm currently learning: MERN Stack (MongoDB, Express, React, Node.js),🧠 Improving problem-solving with Java, 🔐 Working on authentication, JWT, and protected routes**
+- 🌱 I'm currently learning: MERN Stack (MongoDB, Express, React, Node.js),🧠 Improving problem-solving with Java, 🔐 Working on authentication, JWT, and protected routes
 
 - 👯 I'm looking to collaborate on Open source projects related to web development, backend systems, and beginner-friendly MERN applications.
 
