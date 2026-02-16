@@ -3,6 +3,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=7000FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Shivang+Chaurasia;MERN+Stack+Developer;Java+%26+DSA+Solver" alt="Typing SVG" />
   </a>
+  
 
   <p>
     <a href="mailto:shiva17ng@gmail.com">
