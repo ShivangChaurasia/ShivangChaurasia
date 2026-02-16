@@ -1,22 +1,21 @@
 <div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi+I'm+Shivang+Chaurasia;Building+AspireLens;MERN+Stack+Developer;Java+%26+DSA+Enthusiast" alt="Typing SVG" />
-  </a>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivangChaurasia&theme=tokyonight" alt="Shivang's Profile Details" />
-</div>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=7000FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Shivang+Chaurasia;Aspiring+Software+Engineer;MERN+Stack+Developer;Java+%26+DSA+Solver" alt="Typing SVG" />
+  </a>
 
   <p>
     <a href="mailto:shiva17ng@gmail.com">
-      <img src="https://img.shields.io/badge/Email-shiva17ng%40gmail.com-red?style=flat-square&logo=gmail" />
+      <img src="https://img.shields.io/badge/Email-shiva17ng%40gmail.com-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/shivang-chaurasia-754232297/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://leetcode.com/problemset/">
-      <img src="https://img.shields.io/badge/LeetCode-Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+      <img src="https://img.shields.io/badge/LeetCode-Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    </a>
+    <a href="https://github.com/ShivangChaurasia">
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
 
@@ -24,50 +23,47 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="60%">
-      <h3>🧐 About Me</h3>
-      <ul>
-        <li>🔭 Working on <b>AspireLens</b> (MERN Career Platform)</li>
-        <li>🌱 Mastering <b>MERN Stack</b> & <b>Java DSA</b></li>
-        <li>🎓 <b>B.Tech CSE</b> Student (3rd Year)</li>
-        <li>🤝 Open for <b>Open Source Collabs</b></li>
-        <li>⚡ <b>Fun fact:</b> I enjoy debugging as much as coding!</li>
-      </ul>
-      <br />
-      <b>Current Focus:</b>
-      <br />
-      <img src="https://img.shields.io/badge/Project-AspireLens-blue?style=for-the-badge&logo=github" />
-    </td>
-    <td width="40%">
-      <div align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding animation" />
-      </div>
-    </td>
-  </tr>
-</table>
+### 🚀 About Me
+
+- 👨‍💻 I’m currently working on **AspireLens** (A MERN Career Guidance Platform).
+- 🌱 I’m currently mastering **Data Structures & Algorithms in Java**.
+- 🎓 **B.Tech CSE Student** (3rd Year) passionate about Backend Systems.
+- ⚡ **Fun fact:** "First, solve the problem. Then, write the code."
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,python,html,css,js,git,github,vscode,postman,figma,linux,mysql,firebase&perline=9" />
+
+| **Frontend** | **Backend & DB** | **Languages & Tools** |
+|:---:|:---:|:---:|
+| <img height="40" src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,tailwind" /> | <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" /> | <img height="40" src="https://skillicons.dev/icons?i=java,python,c,git,github,postman,vscode" /> |
+
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
+### 📈 GitHub Analytics
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivangChaurasia&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangChaurasia&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivangChaurasia&theme=tokyonight" width="100%" alt="profile details" />
+  <br/><br/>
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivangChaurasia&theme=tokyonight" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivangChaurasia&theme=tokyonight" width="48%" />
+  
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github.com/ShivangChaurasia/ShivangChaurasia/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</div>
 <div align="center">
   <img src="https://github.com/ShivangChaurasia/ShivangChaurasia/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
