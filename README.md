@@ -4,11 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi+I'm+Shivang+Chaurasia;Building+AspireLens;MERN+Stack+Developer;Java+%26+DSA+Enthusiast" alt="Typing SVG" />
   </a>
 
-  <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=ShivangChaurasia&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="ShivangChaurasia" />
-    </a>
-  </p>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivangChaurasia&theme=tokyonight" alt="Shivang's Profile Details" />
+</div>
 
   <p>
     <a href="mailto:shiva17ng@gmail.com">
@@ -64,9 +62,9 @@
 
 <div align="center">
 
-[![Shivang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivangChaurasia&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivangChaurasia&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangChaurasia&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangChaurasia&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 
 </div>
 
