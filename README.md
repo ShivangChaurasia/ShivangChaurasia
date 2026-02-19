@@ -28,7 +28,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="center">
+    <td width="60%" valign="top">
       <ul>
         <li>👨‍💻 I’m currently working on <b>AspireLens</b> (A MERN Career Guidance Platform).</li>
         <li>🌱 I’m currently mastering <b>Data Structures & Algorithms in Java</b>.</li>
@@ -36,8 +36,8 @@
         <li>⚡ <b>Fun fact:</b> "First, solve the problem. Then, write the code."</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-56118042-07ea-4bdf-9f1c-7a2e56254707.gif" width="200" alt="Animated coding illustration" />
+    <td width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200" alt="Animated coding illustration" />
     </td>
   </tr>
 </table>
