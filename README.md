@@ -26,11 +26,21 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 I’m currently working on **AspireLens** (A MERN Career Guidance Platform).
-- 🌱 I’m currently mastering **Data Structures & Algorithms in Java**.
-- 🎓 **B.Tech CSE Student** (3rd Year) passionate about Backend Systems.
-- ⚡ **Fun fact:** "First, solve the problem. Then, write the code."
-
+<table>
+  <tr>
+    <td width="60%" valign="center">
+      <ul>
+        <li>👨‍💻 I’m currently working on <b>AspireLens</b> (A MERN Career Guidance Platform).</li>
+        <li>🌱 I’m currently mastering <b>Data Structures & Algorithms in Java</b>.</li>
+        <li>🎓 <b>B.Tech CSE Student</b> (3rd Year) passionate about Backend Systems.</li>
+        <li>⚡ <b>Fun fact:</b> "First, solve the problem. Then, write the code."</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-56118042-07ea-4bdf-9f1c-7a2e56254707.gif" width="200" alt="Animated coding illustration" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🛠️ Technical Arsenal
