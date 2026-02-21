@@ -30,7 +30,7 @@
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <li>👨‍💻 I’m currently working on <b>AspireLens</b> (A MERN Career Guidance Platform).</li>
+        <li>👨‍💻 I’m currently working on <b>Capstone Project</b> (Using MERN).</li>
         <li>🌱 I’m currently mastering <b>Data Structures & Algorithms in Java</b>.</li>
         <li>🎓 <b>B.Tech CSE Student</b> (3rd Year) passionate about Backend Systems.</li>
         <li>⚡ <b>Fun fact:</b> "First, solve the problem. Then, write the code."</li>
