@@ -1,7 +1,8 @@
 <div align="center">
-  <h1>Shivang Chaurasia</h1>
-  <p>System Architect & Full-Stack Developer</p>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Shivang%20Chaurasia&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=twinkling" width="100%" alt="Header" />
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=System+Architect;Full-Stack+Developer;First,+solve+the+problem;Then,+write+the+code" alt="Typing SVG" />
   </a>
@@ -13,7 +14,7 @@
   <a href="mailto:shiva17ng@gmail.com">
     <img src="https://img.shields.io/badge/Email-shiva17ng%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/shivang-chaurasia-754232297/">
+  <a href="https://www.linkedin.com/in/Shivang_Chaurasia/">
     <img src="https://img.shields.io/badge/LinkedIn-Shivang_Chaurasia-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/shiva17ng/">
@@ -74,8 +75,10 @@ I am a 3rd-Year B.Tech CSE student operating as a System Architect and Full-Stac
 ### Ⅳ. TELEMETRY
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivangChaurasia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Metrics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivangChaurasia&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Language Telemetry" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivangChaurasia&theme=tokyonight" width="100%" alt="Profile Details" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivangChaurasia&theme=tokyonight" width="48%" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivangChaurasia&theme=tokyonight" width="48%" alt="Language Breakdown" />
 </div>
 
 <br/>
