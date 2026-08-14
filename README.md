@@ -83,4 +83,3 @@ I am a 3rd-Year B.Tech CSE student operating as a System Architect and Full-Stac
 <div align="center">
   <img src="https://raw.githubusercontent.com/ShivangChaurasia/ShivangChaurasia/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Graph" />
 </div>
-
